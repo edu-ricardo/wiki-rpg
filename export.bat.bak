@@ -1,0 +1,5 @@
+echo
+rem Deletar Exportados
+rmdir .\..\exported-wiki /S /Q
+rem recria diretorio
+mkdir .\..\exported-wiki
