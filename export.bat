@@ -13,5 +13,3 @@ hugo-obsidian -input=..\ -output=..\assets\indices -index -root=..\
 cd ..
 
 npx quartz build
-
-xcopy "C:\Users\edu_r\Documents\fontes\quartz\content\" "C:\Users\edu_r\Documents\fontes\wiki-rpg\" /h /i /c /k /e /r /y
