@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"17a0b9cab3040198","x":40,"y":0,"width":1120,"height":720,"type":"group","label":"Deserto de Zaurak ao Sul"},
+		{"id":"2ff3139a14da974b","x":-580,"y":-440,"width":250,"height":60,"type":"text","text":"Culto em Eryndor"},
+		{"id":"8ce24301ade6a7ea","x":-78,"y":-560,"width":250,"height":60,"type":"text","text":"Mind's Eye (BBEG)"},
+		{"id":"7bf88b85fe0a7b8e","x":-175,"y":-310,"width":250,"height":60,"type":"text","text":"Dr Xenon"},
+		{"id":"2373fc9fc9a11c1d","x":-360,"y":-100,"width":250,"height":60,"color":"1","type":"text","text":"Warduke"},
+		{"id":"93e928f37b7ab457","x":-940,"y":-530,"width":250,"height":60,"color":"3","type":"text","text":"Universidade"},
+		{"id":"b78e3786d29c9ada","x":-815,"y":10,"width":250,"height":60,"type":"text","text":"Rivais"},
+		{"id":"022be41aada3b61f","x":-425,"y":220,"width":250,"height":60,"color":"3","type":"text","text":"Liber "},
+		{"id":"14c5cf162a3ebcf8","x":623,"y":-295,"width":295,"height":90,"type":"text","text":"[[Bork]]\nPossui o Olho do Mind's Eye"},
+		{"id":"524e1eddbcf55403","x":120,"y":540,"width":250,"height":120,"color":"3","type":"text","text":"Comunidades do Oasis\n[[Oas'Kareth - Mestre]] e Redondezas"},
+		{"id":"188a959064f3fb60","x":793,"y":540,"width":250,"height":70,"color":"3","type":"text","text":"Anões das Montanhas do Deserto"},
+		{"id":"1747fe360a3cb4e1","x":771,"y":190,"width":250,"height":60,"type":"text","text":"O Olho"},
+		{"id":"762741f2a8841fb8","x":75,"y":60,"width":250,"height":80,"type":"text","text":"Herdeiros de Zaurak"}
+	],
+	"edges":[
+		{"id":"ddececa7be39b720","fromNode":"8ce24301ade6a7ea","fromSide":"left","toNode":"2ff3139a14da974b","toSide":"right","label":"Controle"},
+		{"id":"da049e5fa1fd76e3","fromNode":"8ce24301ade6a7ea","fromSide":"bottom","toNode":"7bf88b85fe0a7b8e","toSide":"top","label":"Tenente"},
+		{"id":"a47b46aff089332a","fromNode":"7bf88b85fe0a7b8e","fromSide":"left","toNode":"2ff3139a14da974b","toSide":"bottom","toEnd":"none","label":"Trabalham Juntos"},
+		{"id":"a504abbd39dc564b","fromNode":"7bf88b85fe0a7b8e","fromSide":"bottom","toNode":"2373fc9fc9a11c1d","toSide":"top","label":"Tenente"},
+		{"id":"207499a8401447ac","fromNode":"8ce24301ade6a7ea","fromSide":"right","toNode":"14c5cf162a3ebcf8","toSide":"left","fromEnd":"arrow","label":"Luta Antiga"},
+		{"id":"e4ea00f66bea1444","fromNode":"2ff3139a14da974b","fromSide":"left","toNode":"b78e3786d29c9ada","toSide":"top","label":"Estão em Missão Para"},
+		{"id":"2c095839ba9dc42f","fromNode":"2ff3139a14da974b","fromSide":"top","toNode":"93e928f37b7ab457","toSide":"right","label":"Infiltrado"},
+		{"id":"07b33817b5fd99bb","fromNode":"2373fc9fc9a11c1d","fromSide":"bottom","toNode":"022be41aada3b61f","toSide":"top","label":"Tentativa de Dominio"},
+		{"id":"f5b784526c5a3b2f","fromNode":"188a959064f3fb60","fromSide":"left","toNode":"524e1eddbcf55403","toSide":"right","fromEnd":"arrow","label":"Aliança para Proteção\n(com conflitos)"},
+		{"id":"c783a4c394e70d96","fromNode":"1747fe360a3cb4e1","fromSide":"top","toNode":"762741f2a8841fb8","toSide":"right","label":"Ataques"},
+		{"id":"ec487a076ddc8c15","fromNode":"1747fe360a3cb4e1","fromSide":"left","toNode":"524e1eddbcf55403","toSide":"top","label":"Ataques"},
+		{"id":"7814da7c00dd9057","fromNode":"1747fe360a3cb4e1","fromSide":"bottom","toNode":"188a959064f3fb60","toSide":"top","label":"Ataques"},
+		{"id":"595a7c7adc9eaa1b","fromNode":"14c5cf162a3ebcf8","fromSide":"bottom","toNode":"1747fe360a3cb4e1","toSide":"right","label":"Ex-Comandante"},
+		{"id":"1ec951462b7630f7","fromNode":"762741f2a8841fb8","fromSide":"bottom","toNode":"524e1eddbcf55403","toSide":"top"},
+		{"id":"01f6371b7ff49707","fromNode":"762741f2a8841fb8","fromSide":"bottom","toNode":"188a959064f3fb60","toSide":"top"}
+	]
+}

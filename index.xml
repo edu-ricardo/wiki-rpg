@@ -1,46 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Wiki de Lore de Palandor - RPG</title>
+      <link>https://https://edu-ricardo.github.io/wiki-rpg/</link>
+      <description>Last 10 notes on Wiki de Lore de Palandor - RPG</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Tylarion</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Continente/Tylarion</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Continente/Tylarion</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 26 Nov 2025 00:35:59 GMT</pubDate>
+  </item><item>
+    <title>Castelo Lancaster</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Lugares/Castelo-Lancaster</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Lugares/Castelo-Lancaster</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 25 Nov 2025 23:20:15 GMT</pubDate>
+  </item><item>
     <title>Liber</title>
-    <link>https://quartz.jzhao.xyz/Campaigns/Palandor/Cidades/Liber</link>
-    <guid>https://quartz.jzhao.xyz/Campaigns/Palandor/Cidades/Liber</guid>
-    <description><![CDATA[ Liber: A Cidade-Estado Portuária (Palandor) Liber é a maior cidade-estado portuária e o principal centro de comércio, cultura, política e comunicação do continente de Elarion. ]]></description>
-    <pubDate>Fri, 21 Nov 2025 17:29:04 GMT</pubDate>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Cidades/Liber</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Cidades/Liber</guid>
+    <description><![CDATA[ Liber é a maior cidade-estado e o principal centro de comércio, cultura, política e comunicação do continente de Elarion. ]]></description>
+    <pubDate>Tue, 25 Nov 2025 23:11:29 GMT</pubDate>
   </item><item>
-    <title>Oas&#039;Kareth</title>
-    <link>https://quartz.jzhao.xyz/Campaigns/Palandor/Cidades/Oas'Kareth</link>
-    <guid>https://quartz.jzhao.xyz/Campaigns/Palandor/Cidades/Oas'Kareth</guid>
-    <description><![CDATA[ Lar do Camelo Hidratado. ]]></description>
-    <pubDate>Fri, 21 Nov 2025 17:29:04 GMT</pubDate>
+    <title>Elarion</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Continente/Elarion</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Continente/Elarion</guid>
+    <description><![CDATA[ Elarion é o continente mais a norte de Palandor, é conhecido por sua população diversa e sua diplomacia com os outros continentes, principalmente quando falamos das Cidades Estados Livre. ]]></description>
+    <pubDate>Tue, 25 Nov 2025 23:11:29 GMT</pubDate>
   </item><item>
-    <title>Camelo Hidratado</title>
-    <link>https://quartz.jzhao.xyz/Campaigns/Palandor/Lugares/Camelo-Hidratado</link>
-    <guid>https://quartz.jzhao.xyz/Campaigns/Palandor/Lugares/Camelo-Hidratado</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 21 Nov 2025 17:29:04 GMT</pubDate>
-  </item><item>
-    <title>default</title>
-    <link>https://quartz.jzhao.xyz/archetypes/default</link>
-    <guid>https://quartz.jzhao.xyz/archetypes/default</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 21 Nov 2025 17:19:42 GMT</pubDate>
-  </item><item>
-    <title>Home</title>
-    <link>https://quartz.jzhao.xyz/Home</link>
-    <guid>https://quartz.jzhao.xyz/Home</guid>
-    <description><![CDATA[ Bem-Vindos a Campanha de Palandor. Aqui vc pode encontrar informações sobre vários pontos de Lore desse mundo. ]]></description>
-    <pubDate>Fri, 21 Nov 2025 17:14:31 GMT</pubDate>
+    <title>Palandor</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Palandor</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Palandor</guid>
+    <description><![CDATA[ Palandor é o mundo onde estamos criado pelos Deuses a Milhares de Anos e após uma era de milênios com os Deuses influenciando presencialmente os caminhos mortais e vivendo entre seus crentes eles foram separados ninguém sabe ao certo como, mas agora os Deuses ficam apenas em seus planos e Palandor s... ]]></description>
+    <pubDate>Tue, 25 Nov 2025 23:11:29 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Bem-Vindos a Campanha de Palandor. Aqui vc pode encontrar informações sobre vários pontos de Lore desse mundo. ]]></description>
-    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/</guid>
+    <description><![CDATA[ Bem-Vindos a Campanha de Palandor. ]]></description>
+    <pubDate>Tue, 25 Nov 2025 23:11:29 GMT</pubDate>
+  </item><item>
+    <title>Cidades Estados Livre</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Regioes/Cidades-Estados-Livre</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Regioes/Cidades-Estados-Livre</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 25 Nov 2025 22:56:36 GMT</pubDate>
+  </item><item>
+    <title>House-Rules Publico</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/House-Rules-Publico</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/House-Rules-Publico</guid>
+    <description><![CDATA[ Regras da Casa (House Rules) Poções Poções que normalmente exigem uma rolagem de dados para determinar o efeito ou a cura podem ser usadas de duas maneiras diferentes, dependendo do tempo de ação: Ação Bônus (Bônus Action): O personagem deve rolar os dados indicados para o efeito da poção. ]]></description>
+    <pubDate>Fri, 21 Nov 2025 20:41:03 GMT</pubDate>
+  </item><item>
+    <title>Oás&#039;Kareth</title>
+    <link>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Cidades/O%C3%A1s'Kareth</link>
+    <guid>https://https://edu-ricardo.github.io/wiki-rpg/Campaigns/Palandor/Cidades/O%C3%A1s'Kareth</guid>
+    <description><![CDATA[ Oás’Kareth: A Joia do Deserto de Zaurak (Palandor) Oás’Kareth é uma imponente cidade-oásis localizada no limiar do extenso Deserto de Zaurak. ]]></description>
+    <pubDate>Fri, 21 Nov 2025 20:41:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
