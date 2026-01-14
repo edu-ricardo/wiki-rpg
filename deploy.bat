@@ -1,1 +1,0 @@
-xcopy "C:\Users\edu_r\Documents\fontes\quartz\content\*.*" "C:\Users\edu_r\Documents\fontes\wiki-rpg\*.*" /h /i /c /k /e /r /y
